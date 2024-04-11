@@ -37,3 +37,26 @@ development!
 + google colab notebook(preferable)
 + some operating system
 
+## Process:
++ Making a card of deck
++ shuffeling it
++ dividing it in 2 equal halfs
++ taking the user input to take 4 -5 cards from those half
++ performing some functions to remove or keep the cards
++ bulding a good stratergies by the user
++ making it to the end by having no more card in both the halfs and the empty list
++ showing that u have won the game
+
+## Next 
++ I would like to solve some bugs in this code 
++ will try to add a undo option to the code
++ will make the code more presentable and easy to understand
+
+## How to run this code:
++ open google colab notebook on the Google
++ and make a new notebook named Solitarie
++ And then copy paste the code from the file game.py to the colab notebook code cell
++ and press ctrl+enter (just run the code)
+
+## Find any Bugs???
+if you find any bug or knows the solution on how to solve them feel free to contact me on akshit6299@gmail.com
